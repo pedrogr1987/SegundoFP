@@ -8,4 +8,4 @@ public class ComparadorporEdad implements Comparator<Gimnasta> {
         return g1.getEdad().compareTo(g2.getEdad());
     }
 }
-//comentario nuevo
+//comentario nuevos
