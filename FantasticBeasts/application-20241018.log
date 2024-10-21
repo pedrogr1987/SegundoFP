@@ -1,0 +1,20 @@
+2024-10-18 08:18:09.815 [main] ERROR servicio.ManejaFicheroCriaturas - Criatura Niffler está duplicada
+2024-10-18 08:18:09.837 [main] ERROR servicio.ManejaFicheroCriaturas - Criatura Niffler está duplicada
+2024-10-18 08:18:09.841 [main] DEBUG servicio.ManejaFicheroCriaturas - Centauro
+2024-10-18 08:18:09.842 [main] DEBUG servicio.ManejaFicheroCriaturas - Veela
+2024-10-18 08:18:09.842 [main] DEBUG servicio.ManejaFicheroCriaturas - Hombre Lobo
+2024-10-18 08:18:09.842 [main] DEBUG servicio.ManejaFicheroCriaturas - Vampiro
+2024-10-18 08:18:09.842 [main] DEBUG servicio.ManejaFicheroCriaturas - Goblin
+2024-10-18 08:18:09.842 [main] DEBUG servicio.ManejaFicheroCriaturas - House Elf
+2024-10-18 08:18:09.842 [main] DEBUG servicio.ManejaFicheroCriaturas - La criatura Kelpie es de tipo BESTIA y peligrosidad 60
+2024-10-18 08:18:09.842 [main] DEBUG respositorio.Diario - Se eliminó la entrada de la criatura Goblin
+2024-10-18 11:39:31.008 [main] ERROR servicio.ManejaFicheroCriaturas - Criatura Niffler está duplicada
+2024-10-18 11:39:31.028 [main] ERROR servicio.ManejaFicheroCriaturas - Criatura Niffler está duplicada
+2024-10-18 11:39:31.030 [main] DEBUG servicio.ManejaFicheroCriaturas - Centauro
+2024-10-18 11:39:31.030 [main] DEBUG servicio.ManejaFicheroCriaturas - Veela
+2024-10-18 11:39:31.030 [main] DEBUG servicio.ManejaFicheroCriaturas - Hombre Lobo
+2024-10-18 11:39:31.030 [main] DEBUG servicio.ManejaFicheroCriaturas - Vampiro
+2024-10-18 11:39:31.030 [main] DEBUG servicio.ManejaFicheroCriaturas - Goblin
+2024-10-18 11:39:31.031 [main] DEBUG servicio.ManejaFicheroCriaturas - House Elf
+2024-10-18 11:39:31.031 [main] DEBUG servicio.ManejaFicheroCriaturas - La criatura Kelpie es de tipo BESTIA y peligrosidad 60
+2024-10-18 11:39:31.031 [main] DEBUG respositorio.Diario - Se eliminó la entrada de la criatura Goblin

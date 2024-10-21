@@ -1,0 +1,35 @@
+=================================================
+BESTIAS
+=================================================
+Basilisco false 100 60
+Murtlap false 40 30
+Nundu false 90 70
+Mooncalf false 10 20
+Chupacabra false 50 30
+Swooping Evil false 60 40
+Kelpie false 60 50
+Zouwu false 80 70
+Graphorn false 70 30
+Occamy false 60 80
+Demiguise false 20 60
+Erumpent false 70 30
+Fénix true 40 90
+Thestral false 50 50
+Bowtruckle false 10 20
+Niffler false 30 40
+=================================================
+ESPIRITUS
+=================================================
+Dementor false 90 80
+Fantasma true 20 30
+Boggart false 40 50
+Poltergeist true 60 80
+=================================================
+SERES
+=================================================
+Centauro false 50 40
+Veela false 60 60
+Hombre Lobo false 80 40
+Vampiro false 70 50
+Goblin false 30 40
+House Elf false 30 70
